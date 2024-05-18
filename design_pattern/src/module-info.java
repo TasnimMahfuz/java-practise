@@ -1,0 +1,2 @@
+module observer_pattern {
+}
